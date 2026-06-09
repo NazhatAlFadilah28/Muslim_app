@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Mosque dome -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,28C45,28 38,35 38,44L38,58L70,58L70,44C70,35 63,28 54,28Z"/>
+    <!-- Main dome top -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,23C51,23 48,26 48,28L48,33L60,33L60,28C60,26 57,23 54,23Z"/>
+    <!-- Left minaret -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M28,33L32,33L32,58L28,58Z"/>
+    <!-- Left minaret top -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M26,28L34,28L34,33L26,33Z"/>
+    <!-- Right minaret -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M76,33L80,33L80,58L76,58Z"/>
+    <!-- Right minaret top -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M74,28L82,28L82,33L74,33Z"/>
+    <!-- Door -->
+    <path
+        android:fillColor="#FF2E7D32"
+        android:pathData="M48,58L60,58L60,73C60,73 56,78 54,78C52,78 48,73 48,73Z"/>
+    <!-- Mosque base -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M30,58L78,58L78,73L30,73Z"/>
+    <!-- Decorative lines on dome -->
+    <path
+        android:strokeColor="#FF2E7D32"
+        android:strokeWidth="1.5"
+        android:pathData="M54,33L54,58"/>
+    <path
+        android:strokeColor="#FF2E7D32"
+        android:strokeWidth="1.5"
+        android:pathData="M46,35L46,58"/>
+    <path
+        android:strokeColor="#FF2E7D32"
+        android:strokeWidth="1.5"
+        android:pathData="M62,35L62,58"/>
+</vector>

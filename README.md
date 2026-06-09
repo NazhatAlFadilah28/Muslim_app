@@ -1,4 +1,4 @@
-# app_jadwal_shalat
+# Muslim_app
 
 A new Flutter project.
 
